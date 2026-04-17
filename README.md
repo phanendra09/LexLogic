@@ -122,4 +122,4 @@ lexlogic_win/
 
 ## 📜 License
 
-This project is for educational purposes — part of a B.Tech CSE project on AI-based legal reasoning.
+This project is for educational purposes
